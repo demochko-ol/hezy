@@ -26,7 +26,7 @@
       <file leaf-file-name="js.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/js/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="334" column="0" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.0" vertical-offset="5140" max-vertical-offset="5780">
+            <state line="326" column="0" selection-start="9872" selection-end="9872" vertical-scroll-proportion="0.0" vertical-offset="5542" max-vertical-offset="5780">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="styles.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1006" column="13" selection-start="31522" selection-end="31522" vertical-scroll-proportion="0.53650254" vertical-offset="16786" max-vertical-offset="40936">
+            <state line="1005" column="2" selection-start="31483" selection-end="31486" vertical-scroll-proportion="-0.02866779" vertical-offset="17102" max-vertical-offset="40953">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="324" column="0" selection-start="10513" selection-end="10590" vertical-scroll-proportion="0.0" vertical-offset="5508" max-vertical-offset="6460">
+            <state line="282" column="0" selection-start="9111" selection-end="9111" vertical-scroll-proportion="0.0" vertical-offset="4794" max-vertical-offset="6460">
               <folding />
             </state>
           </provider>
@@ -53,7 +53,7 @@
       <file leaf-file-name="content-single-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/woocommerce/content-single-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="2" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1836">
+            <state line="19" column="2" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1836">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="woocommerce.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/woocommerce.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="799">
+            <state line="21" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="799">
               <folding />
             </state>
           </provider>
@@ -107,7 +107,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
+    <option name="x" value="323" />
+    <option name="y" value="5" />
+    <option name="width" value="747" />
     <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -136,7 +138,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -237,6 +238,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,8 +300,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="994" extended-state="0" />
-    <editor active="false" />
+    <frame x="323" y="5" width="747" height="994" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23363431" sideWeight="0.4995837" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -308,7 +310,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22231013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38440493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.50041634" order="9" side_tool="true" content_ui="tabs" />
@@ -567,28 +569,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="324" column="0" selection-start="10513" selection-end="10590" vertical-scroll-proportion="0.0" vertical-offset="5508" max-vertical-offset="6460">
+        <state line="282" column="0" selection-start="9111" selection-end="9111" vertical-scroll-proportion="0.0" vertical-offset="4794" max-vertical-offset="6460">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/woocommerce/content-single-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="2" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1836">
+        <state line="19" column="2" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="1836">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/woocommerce.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="799">
+        <state line="21" column="0" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="799">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="334" column="0" selection-start="10126" selection-end="10126" vertical-scroll-proportion="0.0" vertical-offset="5140" max-vertical-offset="5780">
+        <state line="326" column="0" selection-start="9872" selection-end="9872" vertical-scroll-proportion="0.0" vertical-offset="5542" max-vertical-offset="5780">
           <folding />
         </state>
       </provider>
@@ -600,7 +602,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hezy/styles.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1006" column="13" selection-start="31522" selection-end="31522" vertical-scroll-proportion="0.53650254" vertical-offset="16786" max-vertical-offset="40936">
+        <state line="1005" column="2" selection-start="31483" selection-end="31486" vertical-scroll-proportion="-0.02866779" vertical-offset="17102" max-vertical-offset="40953">
           <folding />
         </state>
       </provider>
