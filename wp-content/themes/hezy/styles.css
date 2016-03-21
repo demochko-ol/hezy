@@ -620,13 +620,17 @@
 /*------ Template -------*/
 @font-face {
   font-family: 'BenderBlack';
-  src: url('fonts/benderblack.eot');
-  src: url('fonts/benderblack.eot') format('embedded-opentype'), url('fonts/benderblack.woff') format('woff'), url('fonts/benderblack.ttf') format('truetype'), url('fonts/benderblack.svg#BenderBlack') format('svg');
+  src: url('fonts/bender_black-webfont.eot');
+  src: url('fonts/bender_black-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/bender_black-webfont.woff2') format('woff2'), url('fonts/bender_black-webfont.woff') format('woff'), url('fonts/bender_black-webfont.ttf') format('truetype'), url('fonts/bender_black-webfont.svg#benderblack') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 @font-face {
   font-family: 'BenderRegular';
-  src: url('fonts/bender.eot');
-  src: url('fonts/bender.eot') format('embedded-opentype'), url('fonts/bender.woff') format('woff'), url('fonts/bender.ttf') format('truetype'), url('fonts/bender.svg#BenderRegular') format('svg');
+  src: url('fonts/bender-webfont.eot');
+  src: url('fonts/bender-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/bender-webfont.woff2') format('woff2'), url('fonts/bender-webfont.woff') format('woff'), url('fonts/bender-webfont.ttf') format('truetype'), url('fonts/bender-webfont.svg#benderregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 @font-face {
   font-family: 'socicon';
@@ -1001,6 +1005,7 @@ main {
   height: 0;
   line-height: 0;
   overflow: hidden;
+  margin: 0;
 }
 /* .header_bg{
     padding-bottom: 42.5%;
@@ -1231,6 +1236,9 @@ main {
   -moz-transition: all 0.7s ease 0.7s;
   -o-transition: all 0.7s ease 0.7s;
   transition: all 0.7s ease 0.7s;
+}
+.navbar_button:hover {
+  cursor: pointer;
 }
 .shopping-cart-button {
   /* background: url("@{my_files}shopping-cart.png") center center no-repeat; */
@@ -1550,7 +1558,7 @@ main {
 #section2 .img_container img {
   left: 0;
 }
-.woocommerce-breadcrumb {
+.woocommerce .woocommerce-breadcrumb {
   padding: 0;
   background: none;
   margin-bottom: 0;
@@ -1560,6 +1568,7 @@ main {
   display: block;
   overflow: hidden;
   text-transform: uppercase;
+  color: #000;
   /*li{
     -webkit-transition: all 0.5s ease 0.7s;
     -moz-transition: all 0.5s ease 0.7s;
@@ -1584,7 +1593,7 @@ main {
 
   }*/
 }
-.woocommerce-breadcrumb a {
+.woocommerce .woocommerce-breadcrumb a {
   color: #000;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
@@ -1595,9 +1604,8 @@ main {
   margin-bottom: 2px;
   /*background: url("@{my_files}breadcrumb_bg.png") -16px center no-repeat;*/
 }
-.woocommerce-breadcrumb a:hover {
+.woocommerce .woocommerce-breadcrumb a:hover {
   color: #aaa;
-  margin-bottom: 3px;
   /*text-shadow: 0px 1px 0px rgba(253,255,57,.5);*/
   /*text-shadow: 0px 1px 0px rgba(0,0,0,1);*/
   /*background-position: 100% center;*/
@@ -1701,10 +1709,11 @@ main {
   display: block;
   color: #000;
 }
-.woocommerce ul.products li.product img {
+.woocommerce ul.products li.product a img {
   width: 100%;
   height: auto;
   display: block;
+  margin: 0;
 }
 .woocommerce ul.products li.product .da-animate {
   background-color: rgba(253, 255, 57, 0.9);
