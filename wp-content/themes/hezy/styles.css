@@ -1695,6 +1695,7 @@ main {
   display: block;
   overflow: hidden;
   position: relative;
+  margin: 0;
 }
 .woocommerce ul.products li.product a {
   display: block;
