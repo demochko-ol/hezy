@@ -746,6 +746,7 @@ select option:hover {
 input[type="text"],
 input[type="email"],
 textarea,
+.button,
 .wpcf7-form .wpcf7-submit {
   width: 100%;
   border: none;
